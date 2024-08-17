@@ -1,0 +1,11 @@
+.App {
+  font-size: large;
+}
+h1{margin-left: 132px;}
+button{
+  padding: 5px;
+  width: 100px;
+  margin: 20px;
+}
+#dec{background: rgb(255, 175, 175);}
+#inc{background: rgb(117, 255, 147);}
